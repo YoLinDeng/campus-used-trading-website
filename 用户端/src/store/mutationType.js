@@ -1,0 +1,8 @@
+// 定义type 模板
+/**
+ * 用户
+ */
+export const UPDATE_USERNAME = 'UPDATE_USERNAME'
+export const UPDATE_ACTIVE_TELNUM = 'UPDATE_ACTIVE_TELNUM'
+export const UPDATE_ACTIVE_PASSWORD = 'UPDATE_ACTIVE_PASSWORD'
+export const SET_USER_INFO = 'SET_USER_INFO'
